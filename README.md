@@ -84,3 +84,7 @@ Dataset Contains
 - Shipping Information
 
 The cleaned dataset was used for Python analysis, SQL analysis, and the Power BI dashboard.
+
+## Power BI Dashboard
+
+![Amazon Sales Dashboard](dashboard.png)
