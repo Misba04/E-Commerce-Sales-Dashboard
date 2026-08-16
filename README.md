@@ -57,3 +57,30 @@ Key Features
 Project Outcome
 
 The dashboard helps understand e-commerce sales performance and provides insights into categories, locations, fulfilment methods, and sales trends.
+
+
+Dataset
+
+This project uses Amazon e-commerce sales data for sales analysis and dashboard development.
+
+Dataset Files
+
+The original and cleaned CSV files are stored locally because they exceed GitHub's file upload size limit.
+
+- "Amazon_Sales_Report.csv" — Original dataset
+- "Cleaned_Amazon_Sales_Report.csv" — Cleaned dataset
+
+Dataset Contains
+
+- Order ID
+- Order Date
+- Status
+- Fulfilment
+- Category
+- Quantity
+- Amount
+- Shipping City
+- Shipping State
+- Shipping Information
+
+The cleaned dataset was used for Python analysis, SQL analysis, and the Power BI dashboard.
