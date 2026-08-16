@@ -88,3 +88,12 @@ The cleaned dataset was used for Python analysis, SQL analysis, and the Power BI
 ## Power BI Dashboard
 
 ![Amazon Sales Dashboard](dashboard.png)
+
+## Project Highlights
+
+- Built an end-to-end e-commerce sales analytics solution using Python, SQL, and Power BI.
+- Cleaned and processed 128,975 sales records using Pandas.
+- Performed exploratory data analysis to identify sales trends and top-performing products, categories, states, and cities.
+- Created SQL queries for key business metrics including total sales, total orders, average order value, and regional/category performance.
+- Developed an interactive Power BI dashboard with KPI cards, charts, and slicers.
+- Generated actionable insights to support data-driven business decisions.
